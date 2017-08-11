@@ -1,0 +1,8 @@
+{
+  "name": "todoMVC-arc-lambda-get-index",
+  "dependencies": {
+    "@architect/functions": "^1.3.0",
+    "todomvc-app-css": "^2.1.0",
+    "todomvc-common": "^1.0.3"
+  }
+}

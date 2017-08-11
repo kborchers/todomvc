@@ -1,0 +1,6 @@
+{
+  "name": "todoMVC-arc-lambda-get-todos-000storeID",
+  "dependencies": {
+    "@architect/functions": "^1.3.0"
+  }
+}

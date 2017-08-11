@@ -1,0 +1,6 @@
+{
+  "name": "todoMVC-arc-lambda-get-learn",
+  "dependencies": {
+    "@architect/functions": "^1.3.0"
+  }
+}
