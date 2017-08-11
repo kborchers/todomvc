@@ -1,5 +1,5 @@
-# Vanilla JavaScript TodoMVC Example
+# architect/Lambda/DynamoDB TodoMVC Example
 
-> JavaScript® (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, most known as the scripting language for Web pages, but used in many non-browser environments as well such as node.js or Apache CouchDB.
+> Event driven programming with cloud functions can be tricky to set up and maintain. architect offers a simple plaintext manifest and npm script based workflows for provisioning, deploying, orchestrating, and working offline with cloud infrastructure.
 
-> _[JavaScript - developer.mozilla.org](http://developer.mozilla.org/en-US/docs/JavaScript)
+> Using [architect](https://arc.codes), this example adds a persistent store via [DynamoDB](https://aws.amazon.com/dynamodb/) and all interaction with DynamoDB as well as the loading of all content is done via [AWS Lambda](https://aws.amazon.com/lambda/).
