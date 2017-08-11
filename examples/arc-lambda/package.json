@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "create": "AWS_PROFILE=default AWS_REGION=us-east-1 arc-create",
-    "deploy": "AWS_PROFILE=default AWS_REGION=us-east-1 arc-deploy",
+    "create": "AWS_PROFILE=jsf AWS_REGION=us-east-1 arc-create",
+    "deploy": "AWS_PROFILE=jsf AWS_REGION=us-east-1 arc-deploy",
     "start": "NODE_ENV=testing AWS_REGION=us-east-1 arc-sandbox",
     "init": "arc-modules-install",
     "link": "arc-modules-link",
